@@ -1,0 +1,6 @@
+[project]
+name = "my-matplotlib-wrapper"
+version = "0.1.0"
+dependencies = [
+    "matplotlib>=3.0.0"
+]

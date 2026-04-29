@@ -1,0 +1,14 @@
+# Build artifacts
+dist/
+build/
+*.egg-info/
+PKG-INFO
+setup.cfg
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
