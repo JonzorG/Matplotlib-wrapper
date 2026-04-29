@@ -9,8 +9,7 @@ Because Matplotlib draws point-to-point, lines crossing a threshold can't change
 ```bash
 pip install matplotlib-splitplot
 
-import matplotlib.pyplot as plt
-from splitplot.custom_plot import plot_split_color
+from splitplot import plot_split_color
 
 # Your data
 x_data = [1, 2, 3, 4, 5]
