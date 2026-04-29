@@ -1,5 +1,5 @@
 [project]
-name = "my-matplotlib-wrapper"
+name = "matplotlib-splitplot" 
 version = "0.1.0"
 dependencies = [
     "matplotlib>=3.0.0"
